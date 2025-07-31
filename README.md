@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm RituRaj Mallick
 **A passionate Machine Learning Engineer || AI Engineer **
 
-Email Me 👉 ✉️ **riturajmallick1234@gmail.com.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **riturajmallick1234@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** DeepLearning && ML
 - 🌱 **I’m currently learning:** MERN Stack
